@@ -1,1 +1,1 @@
-[![Imaage](https://github.com/EliteDaMyth/EliteDaMyth/blob/master/image.png?raw=true)](https://github.com/0-ng/0-ng)
+[![Imaage](https://github.com/0-ng/0-ng)](https://github.com/0-ng/0-ng)
